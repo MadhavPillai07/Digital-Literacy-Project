@@ -33,7 +33,3 @@ UPI (Unified Payments Interface) fraud is a form of financial cybercrime where a
 - Bank accounts may be further compromised if credentials are leaked
 - Emotional distress, especially for students with limited income
 - Difficulty in recovering funds — UPI transactions are near-instant and hard to reverse without RBI intervention
-
----
-
-*Source: National Cyber Crime Portal (cybercrime.gov.in) – reported case patterns, 2023–2024.*
