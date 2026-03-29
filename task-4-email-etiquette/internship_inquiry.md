@@ -9,9 +9,9 @@ I have been developing my technical skills in digital collaboration and coding, 
 Please find my resume and portfolio links attached for your review. I look forward to the possibility of discussing how I can contribute to 
 your organization.
 
-Sincerely,
-Madhav Pillai
-B.Tech – CSE (First Year), VIT Bhopal University
-Registration No.: 25BCE10351
-Linkedin: linkedin.com/in/madhav-pillai-4a2ab73ba
-Email: madhav.25bce10351@vitbhopal.ac.in
+Sincerely, 
+Madhav Pillai 
+B.Tech – CSE (First Year), VIT Bhopal University 
+Registration No.: 25BCE10351 
+Linkedin: linkedin.com/in/madhav-pillai-4a2ab73ba 
+Email: madhav.25bce10351@vitbhopal.ac.in 
