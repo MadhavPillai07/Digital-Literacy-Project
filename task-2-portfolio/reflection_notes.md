@@ -1,7 +1,7 @@
 # Task 2: Student Digital Portfolio - Reflection Notes
 
 ## 📌 Overview
-As a Student Digital Ambassador, I have established a professional digital presence on platforms key to the AI & ML community. 
+As a Student Digital Ambassador, I have established a professional digital presence on platforms key to the Computer Science community. 
 This folder contains evidence of my profiles on LinkedIn, GitHub, and Kaggle.
 
 ## 🔗 Professional Profiles
@@ -10,7 +10,7 @@ This folder contains evidence of my profiles on LinkedIn, GitHub, and Kaggle.
 * **Kaggle:** [https://www.kaggle.com/madhavpillai07](https://www.kaggle.com/madhavpillai07)
 
 ## 📂 Deliverables
-1. **LinkedIn Profile:** Updated with current B.Tech (AI & ML) education at VIT Bhopal and relevant certifications.
+1. **LinkedIn Profile:** Updated with current B.Tech (Computer Science) education at VIT Bhopal and relevant certifications.
 2. **GitHub Profile README:** A personalized introduction highlighting my academic goals.
 3. **Kaggle Profile:** Established for future data science and machine learning contributions.
 
