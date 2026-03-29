@@ -2,10 +2,10 @@
 **Course:** CSE0001 - Digital Literacy  
 
 ## 🎓 Student Details
-**Name:** Madhav Pillai
-**Registration Number:** 25BCE10351  
-**Branch:** CSE(Core) 
-**Year:** First Year  
+**Name:** Madhav Pillai    
+**Registration Number:** 25BCE10351     
+**Branch:** CSE(Core)     
+**Year:** First Year      
 **Institution:** VIT Bhopal University  
 
 ---
